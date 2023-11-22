@@ -1,6 +1,7 @@
 package LAB011POOI_2310976;
 
 public class Autor {
+
     private String name;
     private String email;
     private char gender;
@@ -29,6 +30,6 @@ public class Autor {
 
     @Override
     public String toString() {
-        return name + "(" + gender + ") at " + email;
+        return name ;
     }
 }
