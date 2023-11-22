@@ -1,0 +1,20 @@
+1,Cien años de soledad,Gabriel García Márquez,200,400
+2,El señor de los anillos (Trilogía),J. R. R. Tolkien,1500,1200
+3,1984,George Orwell,500,300
+4,Un mundo feliz,Aldous Huxley,320,500
+5,Orgullo y prejuicio,Jane Austen,130,700
+6,Crimen y castigo,Fiódor Dostoyevski,230,540
+7,Lolita,Vladimir Nabokov,140,456
+8,Ulises,James Joyce,158,400
+9,Madame Bovary,Gustave Flaubert,120,430
+10,En busca del tiempo perdido,Marcel Proust,345,450
+11,Don Quijote de la Mancha,Miguel de Cervantes,340,123
+12,El retrato de Dorian Gray,Oscar Wilde,125,67
+13,El Principito,Antoine de Saint-Exupéry,259,345
+14,El ruido y la furia,William Faulkner,134,246
+15,Los viajes de Gulliver,Jonathan Swif,186,234
+16,Memorias de una geisha,Arthur Golden,195,234
+17,Los juegos del hambre,Suzanne Collins,181,234
+18,Harry Potter y la piedra filosofal,J. K. Rowling,650,4000
+19,Los miserables,Victor Hugo,23,245
+20,Las crónicas de Narnia,C. S. Lewis,456,444
